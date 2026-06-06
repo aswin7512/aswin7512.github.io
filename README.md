@@ -51,21 +51,13 @@ The terminal interprets the following commands natively:
 
 
 | Command | Execution |
-
 | :--- | :--- |
-
 | `help` | Prints the system manual and available operations. |
-
 | `ls` | Lists available executable scripts and readable text files. |
-
 | `cat [file]` | Fetches and prints the string contents of a specified file. |
-
 | `./[script]` | Executes specified shell script outputs. |
-
 | `clear` | Flushes the active DOM output buffer. |
-
 | `whoami` | Prints current user environment identity. |
-
 | `exit` | Terminates the terminal session. |
 
 

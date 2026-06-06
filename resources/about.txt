@@ -1,0 +1,1 @@
+I engineer scalable Python backends using Flask and PostgreSQL, bridging core server infrastructure with advanced AI integrations like OpenAI Whisper and OpenRouter. Dedicated to building accessible technology and translating raw data into functional web infrastructure.

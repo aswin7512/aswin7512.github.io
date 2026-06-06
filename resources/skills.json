@@ -1,0 +1,6 @@
+{
+  "Languages": ["Python", "C", "JavaScript", "SQL"],
+  "Backend": ["Flask REST API", "PostgreSQL", "MySQL", "Middleware Routing"],
+  "Frontend_Cloud": ["React.js", "Vite", "Supabase (BaaS)"],
+  "AI_ML": ["OpenAI Whisper", "OpenRouter API"]
+}

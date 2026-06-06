@@ -80,11 +80,9 @@ To run this environment locally:
 
 1. Clone the repository:
 
-&#x20;  ```bash
+```bash
 
-&#x20;  git clone [https://github.com/aswin7512/aswin7512.github.io.git](https://github.com/aswin7512/aswin7512.github.io.git)
-
-
+git clone [https://github.com/aswin7512/aswin7512.github.io.git](https://github.com/aswin7512/aswin7512.github.io.git)
 
 ```
 
@@ -95,8 +93,6 @@ To run this environment locally:
 ```bash
 
 cd aswin7512.github.io
-
-
 
 ```
 
@@ -110,8 +106,6 @@ cd aswin7512.github.io
 
 python3 -m http.server 8000
 
-
-
 ```
 
 
@@ -119,8 +113,3 @@ python3 -m http.server 8000
 
 
 4. Access the interface at `http://localhost:8000`.
-
-
-
-```
-

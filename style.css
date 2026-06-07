@@ -143,3 +143,22 @@ a:hover {
 
 .title { color: #facc15; font-weight: bold; }
 .tech { color: #a78bfa; }
+
+/* ==========================================
+   MOBILE RESPONSIVE OVERRIDES
+   ========================================== */
+@media (max-width: 768px) {
+    .neofetch-wrapper {
+        gap: 1.5rem; /* Reduces empty space on phones */
+    }
+    
+    .profile-pic-container {
+        order: 1; /* Forces the image to the top on mobile */
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    
+    .terminal-content {
+        order: 2; /* Pushes the terminal text below the image */
+    }
+}
